@@ -39,3 +39,4 @@ All exercices must be placed in to dedicated GitHub repository under separate fo
 }
 ```
 3. Create HTML5 Canvas and using JS draw Rectangle (this must be in HTML file or HTML + JS files) Add button "Create Rectangle" and bind it to the function that creates random width and height rectangle inside of canvas (all rectangles cannot collide with each other or be placed outside canvas)
+4. Bonus Exercise: Add button "Fill Canvas" and bind it to function witch generates ramdom width, height and color Rectangles at random positions inside Canvas untill all canvas is filled by Rectangles, while Rectangles cannot collide or go outside Canvas.
