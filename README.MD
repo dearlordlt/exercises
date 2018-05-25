@@ -17,11 +17,11 @@ All exercices must be placed in to dedicated GitHub repository under separate fo
  example: 
 ```json
 [
-	{id: 1, name: "dog", parentId: null}
-	{id: 2, name: "Buddy", parentId: 1}
-	{id: 3, name: "Daisy", parentId: 1}
-	{id: 4, name: "cat", parentId: null}
-	{id: 5, name: "Smokey", parentId: 4}
+	{id: 1, name: "dog", parentId: null},
+	{id: 2, name: "Buddy", parentId: 1},
+	{id: 3, name: "Daisy", parentId: 1},
+	{id: 4, name: "cat", parentId: null},
+	{id: 5, name: "Smokey", parentId: 4},
 	{id: 6, name: "Oscar", parentId: 4}
 ]
 ```
