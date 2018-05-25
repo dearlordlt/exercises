@@ -1,4 +1,4 @@
-# Front End Developers JavaScript Exercises
+# JavaScript Exercises
 
 All exercices must be placed in to dedicated GitHub repository under separate folders.
 
