@@ -5,7 +5,7 @@ const b = [
 	{id="3", name: "Daisy", friends: ["cat", "dog"] }, 
 	{id="4", animal: "cat", hates="dog" },
 	{id="5", name: "Smokey" }, 
-    {id="6", name: "Oscar", hobbyes=[{chess=2, football=4}] }
+    	{id="6", name: "Oscar", hobbyes=[{chess=2, football=4}] }
 ];
 
 fn(b, {name: "Peter", height="200"})
@@ -36,8 +36,8 @@ example2 = { name: "Oscar", hobbyes=[{chess=2, football=4, racing="???"}] };
 	{id="3", name: "Daisy", friends: ["cat", "dog"] }, 
 	{id="4", animal: "cat", hates="dog" },
 	{id="5", name: "Smokey" }, 
-    {id="6", name: "Oscar", hobbys=[{chess=2, football=4}] },
-    {id="7", name: "Oscar", hobbyes=[{chess=2, football=4, racing="???"}] }
+    	{id="6", name: "Oscar", hobbys=[{chess=2, football=4}] },
+    	{id="7", name: "Oscar", hobbyes=[{chess=2, football=4, racing="???"}] }
 ]
 */
 example3 = { name: "Smokey", 0:[] };
@@ -48,9 +48,9 @@ example3 = { name: "Smokey", 0:[] };
 	{id="3", name: "Daisy", friends: ["cat", "dog"] }, 
 	{id="4", animal: "cat", hates="dog" },
 	{id="5", name: "Smokey" }, 
-    {id="6", name: "Oscar", hobbys=[{chess=2, football=4}] },
-    {id="7", name: "Oscar", hobbyes=[{chess=2, football=4, racing="???"}] },
-    {id="8" name: "Smokey", 0:[] }
+    	{id="6", name: "Oscar", hobbys=[{chess=2, football=4}] },
+    	{id="7", name: "Oscar", hobbyes=[{chess=2, football=4, racing="???"}] },
+    	{id="8" name: "Smokey", 0:[] }
 ]
 */
 ```
