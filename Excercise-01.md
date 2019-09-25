@@ -1,5 +1,5 @@
 ```json
-const b = [
+let data = [
 	{id="1", animal: "dog", color="black" },
 	{id="2", name: "Buddy", age="7" }, 
 	{id="3", name: "Daisy", friends: ["cat", "dog"] }, 
@@ -8,7 +8,7 @@ const b = [
     	{id="6", name: "Oscar", hobbyes=[{chess=2, football=4}] }
 ];
 
-fn(b, {name: "Peter", height="200"})
+fn(data, {name: "Peter", height="200"})
 
 /**
 
