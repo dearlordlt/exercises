@@ -1,3 +1,5 @@
+No external libraries can be used, excercise must be placed in .js file under git repository and sent to ssliteris@exadel.com
+
 ```json
 let data = [
 	{id="1", animal: "dog", color="black" },
