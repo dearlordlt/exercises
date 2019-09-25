@@ -1,3 +1,4 @@
+```json
 const b = [
 	{id="1", animal: "dog", color="black" },
 	{id="2", name: "Buddy", age="7" }, 
@@ -52,3 +53,4 @@ example3 = { name: "Smokey", 0:[] };
     {id="8" name: "Smokey", 0:[] }
 ]
 */
+```
